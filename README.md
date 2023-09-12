@@ -1,5 +1,5 @@
 <div align="center">
-<img src=".github/logo.png" width="450px" alt="Automation Anywhere"> 
+<img src=".github/logo_automation.png" width="450px" alt="Automation Anywhere"> 
 </div>
 
 
