@@ -2,35 +2,33 @@
 <img src=".github/logo_automation.png" width="450px" alt="Automation Anywhere"> 
 </div>
 
-
 <h1 align="center"> Desafio 4 - Customer Onboarding - Front Office </h1>
-
-Este repositório é dedicado a resolução do [Desafio 4 - Customer Onboarding - Front Office](https://community.automationanywhere.com/developer-challenges-85011/challenge-page-intro-front-office-85108). 
-
 
 <br>
 
+Este repositório é dedicado a resolução do [Desafio 4 - Customer Onboarding - Front Office](https://community.automationanywhere.com/developer-challenges-85011/challenge-page-intro-front-office-85108). 
+
+<br>
 
 <p align="center">
-  <a href="#-tecnologias">🎯 Challenge Objective</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-videos"> ▶️ Vídeos </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-objetivo">🎯 Objetivo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-vídeos">▶️ Vídeos </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-certificado">📜 Certificado</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">:memo: Licença</a>
 </p>
 
 <br>
 
-
-## 🎯 Challenge Objective
+## 🎯 Objetivo
 
 The Cable Co is missing customers from their customer relationship management system. Download the missing customers CSV (found on the challenge page itself), loop through each customer's details to enter the customer into the web form. Once all customer's details have been added, the challenge is complete and your results will be displayed. These results are displayed as a measure of time taken to complete the challenge as well as the accuracy of the data entered.
 
 <br>
 
-
 ## ▶️ Vídeos
 
 ### Vídeo de introdução
+
 https://youtu.be/sXAL_RRjdzY?si=Uu4WN-REbSlZo81c
 
 <br>
@@ -39,15 +37,14 @@ https://youtu.be/sXAL_RRjdzY?si=Uu4WN-REbSlZo81c
 
 https://youtu.be/FhaURv6zzdI?si=7toZ_KPSQIi_jNaF
 
-
 <br>
-
 
 ## 📜 Certificado
 
 <p align="center">
   <img alt="certificado" src=".github/Certificate - Thiago Honorato da Silva.jpg" width="100%">
 </p>
+
 <br>
 
 ## :memo: Licença
