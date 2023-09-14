@@ -35,7 +35,7 @@ https://youtu.be/nMUIZx6eAJA?si=UvUTsu8-Sv1aQ_1l
 ## 📜 Certificado
 
 <p align="center">
-  <img alt="certificado" src=".github/Certificate - Thiago Honorato da Silva.jpg" width="100%">
+  <img alt="certificado" src=".github/Certificate - Thiago Honorato da Silva.jpg" width="50%">
 </p>
 
 <br>
