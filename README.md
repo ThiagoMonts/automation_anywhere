@@ -29,7 +29,14 @@ Nestes desafios não foram utilizadas nenhuma tecnologia específica, apenas a f
 
 ## 🎯 Desafios
 
-- [Desafio 4 - Customer Onboarding - Front Office](https://github.com/ThiagoMonts/automation_anywhere/tree/main/Challenges/Challenge%2004)
+- [Desafio 01 - Building Your First Automation 360 Bot](https://github.com/ThiagoMonts/automation_anywhere/tree/main/Desafios/Desafio%2001)
+- [Desafio 02 - Online Grocery Ordering - Shopping List Bot](https://github.com/ThiagoMonts/automation_anywhere/tree/main/Desafios/Desafio%2002)
+- [Desafio 03 - Message Decoder](#)
+- [Desafio 04 - Customer Onboarding - Front Office](https://github.com/ThiagoMonts/automation_anywhere/tree/main/Desafios/Desafio%2004)
+- [Desafio 05 - The Auction Sniper](https://github.com/ThiagoMonts/automation_anywhere/tree/main/Desafios/Desafio%2005)
+- [Desafio 06 - Shipment Processing](https://github.com/ThiagoMonts/automation_anywhere/tree/main/Desafios/Desafio%2006)
+- [Desafio 07 - Supply Chain](https://github.com/ThiagoMonts/automation_anywhere/tree/main/Desafios/Desafio%2007)
+- [Desafio 08 - Human Resources](https://github.com/ThiagoMonts/automation_anywhere/tree/main/Desafios/Desafio%2008)
 
 
 <br>

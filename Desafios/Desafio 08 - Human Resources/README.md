@@ -2,7 +2,7 @@
 <img src=".github/logo_automation.png" width="450px" alt="Automation Anywhere"> 
 </div>
 
-<h1 align="center"> Desafio 08 - Human Resources </h1>
+<h1 align="center">Desafio 08 - Human Resources</h1>
 
 <br>
 

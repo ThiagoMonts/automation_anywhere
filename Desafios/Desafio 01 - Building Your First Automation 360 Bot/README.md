@@ -2,7 +2,7 @@
 <img src=".github/logo_automation.png" width="450px" alt="Automation Anywhere"> 
 </div>
 
-<h1 align="center"> Desafio 01 - Building Your First Automation 360 Bot </h1>
+<h1 align="center">Desafio 01 - Building Your First Automation 360 Bot</h1>
 
 <br>
 

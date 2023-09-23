@@ -2,7 +2,7 @@
 <img src=".github/logo_automation.png" width="450px" alt="Automation Anywhere"> 
 </div>
 
-<h1 align="center"> Desafio 07 - Supply Chain </h1>
+<h1 align="center">Desafio 07 - Supply Chain</h1>
 
 <br>
 
