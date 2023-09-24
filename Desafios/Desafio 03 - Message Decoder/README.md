@@ -22,6 +22,9 @@ Este repositório é dedicado a resolução do [Desafio 03 - Message Decoder](ht
 
 Automations will commonly make use of more than one application. In this challenge, a "hidden" message is provided in Bulgarian (hidden unless you are fluent in Bulgarian I guess). Extract the Bulgarian text from the Text to Decode field, and translate the text to English before entering it into the translated text field and submitting it.
 
+Tradução 100% precisa:
+You're turning into a champion of bots. You've done well in practice.
+
 <br>
 
 <br>
