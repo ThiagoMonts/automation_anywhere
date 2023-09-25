@@ -42,7 +42,7 @@ https://youtu.be/Y5dKnpqo9Io?si=iwKE4e9ZxPXKavG3
 ## 📜 Certificado
 
 <p align="center">
-  <img alt="certificado" src=".github/Certificate - Thiago Honorato da Silva.png" width="100%">
+  <img alt="certificado" src=".github/Certificate - Thiago Honorato da Silva.png" width="50%">
 </p>
 
 <br>
