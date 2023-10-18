@@ -31,7 +31,7 @@ Nestes desafios não foram utilizadas nenhuma tecnologia específica, apenas a f
 
 - [Desafio 01 - Building Your First Automation 360 Bot](https://github.com/ThiagoMonts/automation_anywhere/tree/main/Desafios/Desafio%2001%20-%20Building%20Your%20First%20Automation%20360%20Bot)
 - [Desafio 02 - Online Grocery Ordering - Shopping List Bot](https://github.com/ThiagoMonts/automation_anywhere/tree/main/Desafios/Desafio%2002%20-%20Online%20Grocery%20Ordering%20-%20Shopping%20List%20Bot)
-- [Desafio 03 - Message Decoder](#)
+- [Desafio 03 - Message Decoder](https://github.com/ThiagoMonts/automation_anywhere/tree/main/Desafios/Desafio%2003%20-%20Message%20Decoder)
 - [Desafio 04 - Customer Onboarding - Front Office](https://github.com/ThiagoMonts/automation_anywhere/tree/main/Desafios/Desafio%2004%20-%20Customer%20Onboarding%20-%20Front%20Office)
 - [Desafio 05 - The Auction Sniper](https://github.com/ThiagoMonts/automation_anywhere/tree/main/Desafios/Desafio%2005%20-%20The%20Auction%20Sniper)
 - [Desafio 06 - Shipment Processing](https://github.com/ThiagoMonts/automation_anywhere/tree/main/Desafios/Desafio%2006%20-%20Shipment%20Processing)
